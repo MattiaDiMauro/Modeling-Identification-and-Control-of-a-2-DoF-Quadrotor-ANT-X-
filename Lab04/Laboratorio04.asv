@@ -1,0 +1,7 @@
+s = tf('s');
+G_v = 2.4/(1.5385*s+1);
+%controlSystemDesigner(G_v)
+Kp_i=1.46*1.5
+Ki_i=(1/1.5)*Kp_i
+R_i_pos=Kp_i*(s+1/1.5385)/s;
+
