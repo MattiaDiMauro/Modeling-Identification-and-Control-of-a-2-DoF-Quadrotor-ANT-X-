@@ -1,5 +1,6 @@
 # Digital Control System for ANT-X 2DoF Quadrotor UAV
 
+**Authors:** Crippa M., Di Mauro M., Zuccali D.  
 **Institution:** Politecnico di Milano  
 **Course:** Digital Control Technology for Aeronautics (DCTA)  
 **Professor:** Fredy Ruiz   
